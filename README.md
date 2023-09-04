@@ -2,4 +2,4 @@
 
 ## Desafio GO
 
-[Veja aqui](DesafioGo/README.md)
+[Veja aqui](DesafioGo)

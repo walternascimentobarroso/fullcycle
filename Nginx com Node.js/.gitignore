@@ -1,3 +1,5 @@
 src/node_modules
 .docker/mysql
 .docker/logs
+
+.DS_Store
